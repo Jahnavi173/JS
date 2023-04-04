@@ -1,0 +1,15 @@
+.nav{
+    background-color:#d57a87;
+    color: antiquewhite;
+    font-family: 'Alkatra', cursive;
+    font-size: 20px;
+}
+.navcart{
+    font-size: 30px;  
+}
+/* .navbar{
+    margin-top: 9px;
+} */
+.navbar:hover{
+    color: pink;
+}

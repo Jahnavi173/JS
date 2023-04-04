@@ -1,0 +1,19 @@
+.home{
+    min-height: 400px;
+}
+.para{
+    text-align: center;
+    background-color:	#f7aeb9;
+    color: #b53d4f;
+    font-size: 50px;
+    font-weight: 400;
+   
+}
+.text{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: #9e5f69;
+    /* color:white; */
+    background-color: rgb(253, 212, 212);
+}
